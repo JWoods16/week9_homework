@@ -37,7 +37,10 @@
       "encoding": {
         "color": {
           "field": "Y2022",
-          "type": "quantitative"
+          "type": "quantitative",
+          "scale": {
+            "scheme":"blues"
+          }
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
