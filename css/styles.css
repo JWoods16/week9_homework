@@ -1,4 +1,7 @@
 #choropleth_map {
+	display: block;       /* make it behave like a block */
+    margin: 0 auto;       /* center horizontally */
+    width: 800px;
 	top:100px;
 	bottom: 100px; 
 	left: 100px;
